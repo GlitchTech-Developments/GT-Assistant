@@ -15,7 +15,7 @@
 
 -   Development-Environment must be Linux-based (Linux or WSL)
 -   Python + pip
--   portaudio & espeak (Linux Packages)
+-   Portaudio & Espeak (Linux Packages)
 
 ### Install
 
