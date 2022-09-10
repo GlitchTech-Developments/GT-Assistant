@@ -1,0 +1,5 @@
+# Visual Studio 
+.vscode
+# Python
+venv
+__pycache__
