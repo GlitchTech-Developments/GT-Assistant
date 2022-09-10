@@ -29,12 +29,11 @@ pip install -r requirements.txt
 
 ```sh
 # Activate
-
 sudo python -m venv venv
 ## Bash
-source venv\bin\activate
+source venv/bin/activate
 ## Fish
-source venv\bin\activate.fish
+source venv/bin/activate.fish
 # Deactivate
 deactivate
 ```
